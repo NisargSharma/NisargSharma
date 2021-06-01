@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate :computer: Web and :iphone: Mobile application developer from India :india:</h3>
 
-- 🔭 I’m currently working on live, industrial projects as an Angular application developer and Ionic application developer
+- 🔭 I’m currently working on live, enterprise level projects as an Angular application developer and Ionic application developer
 
 - 🌱 I’m currently learning MEAN stack development (MongoDB, ExpressJS, Angular, NodeJS))
 

@@ -1,7 +1,5 @@
 
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+<img width="400px" height = "100%" align="right" src="https://github.com/NisargSharma/NisargSharma/blob/main/github-profile-banner.svg" alt="cover" />
 
 <p align='center'>
 
@@ -9,7 +7,7 @@
 
 </p>
 
-  <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers/ >! I'm Nisarg Sharma :man_technologist: </h1>
+  <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers/ >! <br/> I'm Nisarg Sharma :man_technologist: </h1>
 
   <h2 align="center">A passionate :computer: Web and :iphone: Mobile application developer from India :india:</h2> <br/><br/>
 

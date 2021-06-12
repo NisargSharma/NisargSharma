@@ -1,5 +1,5 @@
 
-<img width="400px" height = "100%" align="right" src="https://github.com/NisargSharma/NisargSharma/blob/main/github-profile-banner.svg" alt="cover" />
+<img width="450px" height = "100%" align="right" src="https://github.com/NisargSharma/NisargSharma/blob/main/github-profile-banner.svg" alt="cover" />
 
 <p align='center'>
 
@@ -7,7 +7,8 @@
 
 </p>
 
-  <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers/ >! <br/> I'm Nisarg Sharma :man_technologist: </h1>
+  <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers/ >!</h1>
+  <h1 align="center">I'm Nisarg Sharma :man_technologist: </h1>
 
   <h2 align="center">A passionate :computer: Web and :iphone: Mobile application developer from India :india:</h2> <br/><br/>
 

@@ -1,6 +1,4 @@
 
-<img width="450px" height = "100%" align="right" src="https://github.com/NisargSharma/NisargSharma/blob/main/github-profile-banner.svg" alt="cover" />
-
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NisargSharma.NisargSharma)
@@ -8,11 +6,12 @@
 </p>
 
   <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers/ >!</h1>
+  <img width="500px" height = "100%" align="right" src="https://github.com/NisargSharma/NisargSharma/blob/main/github-profile-banner.svg" alt="cover" /> <br/> <br/> <br/>
   <h1 align="center">I'm Nisarg Sharma :man_technologist: </h1>
 
-  <h2 align="center">A passionate :computer: Web and :iphone: Mobile application developer from India :india:</h2> <br/><br/>
+  <h2 align="center">A passionate :computer: Web and :iphone: Mobile application developer from India :india:</h2> <br/>
 
-<div size='20px'> Thanks for taking the time to view my GitHub Profile! :smile: </div>
+<div size='20px' align="center"> Thanks for taking the time to view my GitHub Profile! :smile: </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -47,7 +46,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/nisarg-sharma'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>    <a href = 'https://www.github.com/NisargSharma'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/nisarg-sharma'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a><a href = 'https://www.github.com/NisargSharma'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 
@@ -55,6 +54,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NisargSharma&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=nisargsharma&">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisargsharma&" alt="nisargsharma" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargSharma&theme=default" />

@@ -24,7 +24,7 @@
 
 - 👀  I’m interested in Web application development and Mobile Application development.
  
-- 💬  Talk to me about Angular, JavaScript, Web application development and Mobile Application development, Freelancing Opportunites, Open Source.
+- 💬  Talk to me about Angular, JavaScript, Web application development, Mobile Application development, Freelancing Opportunites, Open Source.
 
 - 📫  Looing to collaborate on a project? Reach out to me at devstackr99@gmail.com.
 

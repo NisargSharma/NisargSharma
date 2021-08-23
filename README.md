@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 
-- 🔭  I’m currently working on  Live, enterprise level projects as an Angular application developer and Ionic application developer.
+- 🔭  I’m currently working on some live, enterprise level projects as an Angular application developer and Ionic application developer.
 
 - 🌱  I’m currently learning MEAN stack development (MongoDB, ExpressJS, Angular, NodeJS).
 

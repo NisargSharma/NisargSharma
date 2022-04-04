@@ -5,7 +5,7 @@
 
 </p>
 
-  <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers/ >!</h1>
+  <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey, Fellow < Developers />!</h1>
   <img width="500px" height = "100%" align="right" src="https://github.com/NisargSharma/NisargSharma/blob/main/github-profile-banner.svg" alt="cover" /> <br/> <br/> <br/>
   <h1 align="center">I'm Nisarg Sharma :man_technologist: </h1>
 

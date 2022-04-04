@@ -19,12 +19,13 @@
   
 
 - 🔭  I’ve worked on live, enterprise-level projects as an Angular application developer and Ionic application developer.
+- https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png  I'm an AWS Certified Developer - Associate.
 
 - 🌱  I’m currently learning MEAN stack development.
 
 - 👀  I’m interested in Web application development and Mobile Application development.
  
-- 💬  Talk to me about Angular, JavaScript, Web application development, Mobile Application development, Freelancing Opportunites, Open Source.
+- 💬  Talk to me about Angular, JavaScript, Web application development, Mobile Application development and Freelancing Opportunites.
 
 - 📫  Looking to collaborate on a project? Reach out to me at devstackr99@gmail.com.
 

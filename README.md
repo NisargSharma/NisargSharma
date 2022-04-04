@@ -11,7 +11,7 @@
 
   <h2 align="center">A passionate :computer: Web and :iphone: Mobile application developer from India :india:</h2> <br/>
 
-<div size='20px' align="center"> Thanks for taking the time to view my GitHub Profile! :smile: </div>
+<div size='20px' align="center"> Thanks for taking the time out to view my GitHub Profile! :smile: </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 

@@ -20,7 +20,7 @@
 
 - 🔭  I’ve worked on live, enterprise-level projects as an Angular application developer and Ionic application developer.
 
-- 🌱  I’m currently learning Java full stack development.
+- 🌱  I’m currently learning MEAN stack development.
 
 - 👀  I’m interested in Web application development and Mobile Application development.
  

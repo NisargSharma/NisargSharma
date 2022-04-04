@@ -19,7 +19,7 @@
   
 
 - 🔭  I’ve worked on live, enterprise-level projects as an Angular application developer and Ionic application developer.
-- <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png" height="40" width="40">  I'm an AWS Certified Developer - Associate.
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  I'm an AWS Certified Developer - Associate.
 
 - 🌱  I’m currently learning MEAN stack development.
 
